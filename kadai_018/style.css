@@ -6,6 +6,7 @@
   margin: 20px auto;
   text-align: center;
 }
+
 .top-child {
   width: 20%;
   background-color: #ffd9df;
@@ -13,6 +14,7 @@
   text-align: center;
   margin: 0 auto;
 }
+
 #middle {
   position: relative;
   width: 800px;
@@ -59,14 +61,16 @@
   background-color: #e5dcf0;
 }
 #bottom-child02 {
+  position: relative;
+  left: 200px;
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  margin-left: 200px;
 }
 #bottom-child03 {
+  position: relative;
+  left: 400px;
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  margin-left: 400px;
 }
